@@ -1,3 +1,6 @@
-2022/10/11-10:06:59.303 428 Reusing MANIFEST E:/Unreal projects/Unreal5-testing/Thirdpersongame/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
-2022/10/11-10:06:59.353 428 Recovering log #3
-2022/10/11-10:06:59.353 428 Reusing old log E:/Unreal projects/Unreal5-testing/Thirdpersongame/Saved/webcache_4147\Local Storage\leveldb/000003.log 
+2022/10/25-12:56:54.440 7bf8 Reusing MANIFEST E:/Unreal projects/Unreal5-testing/Thirdpersongame/Saved/webcache_4147\Local Storage\leveldb/MANIFEST-000001
+2022/10/25-12:56:54.445 7bf8 Recovering log #3
+2022/10/25-12:56:54.445 7bf8 Reusing old log E:/Unreal projects/Unreal5-testing/Thirdpersongame/Saved/webcache_4147\Local Storage\leveldb/000003.log 
+2022/10/25-13:24:58.500 3274 Level-0 table #5: started
+2022/10/25-13:24:58.555 3274 Level-0 table #5: 14119 bytes OK
+2022/10/25-13:24:58.580 3274 Delete type=0 #3

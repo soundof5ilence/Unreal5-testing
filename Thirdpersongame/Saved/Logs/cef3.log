@@ -893,3 +893,8 @@
 [1010/143001.765:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
 [1010/143001.765:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
 [1010/143625.756:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[1025/132500.638:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1025/132500.657:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1025/132500.996:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[1025/132500.996:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[1025/132501.011:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 331

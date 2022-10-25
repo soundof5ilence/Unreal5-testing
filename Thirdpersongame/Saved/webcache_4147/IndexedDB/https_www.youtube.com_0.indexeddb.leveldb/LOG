@@ -1,15 +1,3 @@
-2022/10/10-14:30:04.047 3064 Reusing MANIFEST E:/Unreal projects/Unreal5-testing/Thirdpersongame/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/10/10-14:30:04.048 3064 Recovering log #4
-2022/10/10-14:30:04.048 3064 Reusing old log E:/Unreal projects/Unreal5-testing/Thirdpersongame/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000004.log 
-2022/10/10-14:39:20.582 3cf0 Level-0 table #8: started
-2022/10/10-14:39:20.609 3cf0 Level-0 table #8: 9367 bytes OK
-2022/10/10-14:39:20.630 3cf0 Delete type=0 #4
-2022/10/10-14:39:20.630 3cf0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2022/10/10-14:39:20.630 3cf0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xb0\xca\xc0L6xB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 189 : 1
-2022/10/10-14:39:20.631 3cf0 Compacting 1@1 + 1@2 files
-2022/10/10-14:39:20.666 3cf0 Generated table #9@1: 39 keys, 1077 bytes
-2022/10/10-14:39:20.666 3cf0 Compacted 1@1 + 1@2 files => 1077 bytes
-2022/10/10-14:39:20.688 3cf0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2022/10/10-14:39:20.689 3cf0 Delete type=2 #5
-2022/10/10-14:39:20.689 3cf0 Delete type=2 #8
-2022/10/10-14:39:20.689 3cf0 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00\xb0\xca\xc0L6xB\x00\x03\x00\x00\x00\x00\x00\x00\x08@' @ 189 : 1 .. (end); will stop at (end)
+2022/10/25-13:25:03.918 1654 Reusing MANIFEST E:/Unreal projects/Unreal5-testing/Thirdpersongame/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/25-13:25:03.930 1654 Recovering log #7
+2022/10/25-13:25:03.930 1654 Reusing old log E:/Unreal projects/Unreal5-testing/Thirdpersongame/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000007.log 
